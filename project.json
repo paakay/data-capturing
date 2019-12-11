@@ -1,7 +1,7 @@
 {
   "name": "Robot2_DataCapturing",
   "description": "Capture data from Micorsoft Excel spreadsheet",
-  "main": "Web Data Capturing.xaml",
+  "main": "Desktop Data Capturing.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
